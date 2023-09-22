@@ -1,0 +1,10 @@
+---
+title: "p8105_hw1_yx2858"
+author: "Yueyi Xu"
+date: "2023-09-22"
+output: github_document
+---
+
+```{r setup, include = FALSE}
+library(tidyverse)
+```
